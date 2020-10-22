@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523565819778.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2768059216",
+    "id" : "52A5D76",
+    "lastKnownWriteTime" : 1524428421,
+    "last_content_update" : 1524428421701,
+    "path" : "~/Desktop/Tripadvisor/comps/tidy.R",
+    "project_path" : "tidy.R",
+    "properties" : {
+        "cursorPosition" : "15,16",
+        "scrollLine" : "1",
+        "tempName" : "Untitled4"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

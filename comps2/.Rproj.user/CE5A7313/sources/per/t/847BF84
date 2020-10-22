@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524614420951.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "847BF84",
+    "lastKnownWriteTime" : 4294967302,
+    "last_content_update" : 1524614420951,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "9D6EAE2C",
+        "caption" : "favela",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=favela&cache_key=9D6EAE2C",
+        "displayedObservations" : 298,
+        "environment" : "",
+        "object" : "favela",
+        "preview" : 0,
+        "totalObservations" : 298,
+        "variables" : 11
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524526921749.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1310823182",
+    "id" : "8C94384A",
+    "lastKnownWriteTime" : 1524614051,
+    "last_content_update" : 1524614051433,
+    "path" : "~/Desktop/Tripadvisor/comps2/review.R",
+    "project_path" : "review.R",
+    "properties" : {
+        "cursorPosition" : "16,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

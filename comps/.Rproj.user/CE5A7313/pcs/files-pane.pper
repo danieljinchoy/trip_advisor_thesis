@@ -1,0 +1,9 @@
+{
+    "path" : "~/Desktop/Tripadvisor/comps",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

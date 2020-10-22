@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524431343472.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AD416EA0",
+    "lastKnownWriteTime" : 4720632648,
+    "last_content_update" : 1524431343472,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "13000731",
+        "caption" : "tidy_favela",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=tidy_favela&cache_key=13000731",
+        "displayedObservations" : "4709",
+        "environment" : "",
+        "object" : "tidy_favela",
+        "preview" : "0",
+        "totalObservations" : "4709",
+        "variables" : "11"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

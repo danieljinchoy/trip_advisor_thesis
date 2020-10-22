@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524614007203.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C699A56E",
+    "lastKnownWriteTime" : 8093582259736543238,
+    "last_content_update" : 1524614007203,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "DE18FC55",
+        "caption" : "sentiment",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=sentiment&cache_key=DE18FC55",
+        "displayedObservations" : 297,
+        "environment" : "",
+        "object" : "sentiment",
+        "preview" : 0,
+        "totalObservations" : 297,
+        "variables" : 2
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

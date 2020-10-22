@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524354272946.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1846750014",
+    "id" : "67D49B03",
+    "lastKnownWriteTime" : 1524428421,
+    "last_content_update" : 1524428421805,
+    "path" : "~/Desktop/Tripadvisor/comps/corpus.R",
+    "project_path" : "corpus.R",
+    "properties" : {
+        "cursorPosition" : "37,0",
+        "scrollLine" : "9",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

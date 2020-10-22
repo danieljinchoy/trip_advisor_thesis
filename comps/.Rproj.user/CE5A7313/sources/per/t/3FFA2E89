@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523212477022.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2867498527",
+    "id" : "3FFA2E89",
+    "lastKnownWriteTime" : 1523581380,
+    "last_content_update" : 1523581380441,
+    "path" : "~/Desktop/Tripadvisor/comps/webscraping.R",
+    "project_path" : "webscraping.R",
+    "properties" : {
+        "cursorPosition" : "20,32",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
