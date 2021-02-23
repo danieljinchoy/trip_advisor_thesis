@@ -1,4 +1,4 @@
-# trip_advisor_thesis
+# Evaluating Rio Olympics' Legacy of Urban Regeneration
 College thesis - TripAdvisor Sentiment Analysis
 
 
